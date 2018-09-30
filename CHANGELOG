@@ -1,0 +1,32 @@
+########################################################################
+# Moloch WISE container
+########################################################################
+# Future version changes:
+# Clean up script
+#
+# Release Notes:
+#
+# 9/18/18
+# Updated Moloch to "Latest Commit" Build
+# Moving to Version 2.5
+#
+# 9/10/18
+# Updated to Moloch v1.5.3
+# Moved Moloch version to variable
+# removed old pieces of systemd
+# Added Ubuntu version to prevent breaking due to versioning
+# Moving to v2.0.1
+#
+# 3/23/18
+# Changed to version 2.0
+# Removed systemd YAY~!
+#
+# 3/20/18
+# Changed to version 1.6
+# Changed to version Moloch 1.0
+#
+# 3/6/18
+# Started version control.
+# Removed nano and less from installed packages.
+# Created notes within the dockerfile to explain each step of the build.
+########################################################################
